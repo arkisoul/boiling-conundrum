@@ -1,4 +1,4 @@
-import React import 'react';
+import React from 'react';
 
 function tryConvert(temperature, convert) {
     const input = parseFloat(temperature);
